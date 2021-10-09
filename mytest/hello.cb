@@ -1,0 +1,8 @@
+import stdio;
+int
+main(int argc, char **argv)
+{
+    int i = 56;
+    printf("Hello, World!\n");
+    return 0;
+}
